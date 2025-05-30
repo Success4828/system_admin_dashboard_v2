@@ -1,0 +1,20 @@
+# 🖥️ System Administration Dashboard
+A simple Bash-based admin tool for system info, user management, and process monitoring.
+
+## 🚀 Features
+- View System Information
+- Manage Users
+- Monitor Processes
+
+## 🛠 Usage
+```bash
+./admin_dashboard.sh
+Save and exit.
+
+---
+
+### **✅ Step 6: Add to Git & Push to GitHub**
+1️⃣ Add all files:
+```bash
+git add .
+git commit -m "Initial setup for System Administration Dashboard V2"
